@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """Unittest module for the Place Class."""
 
 import unittest
