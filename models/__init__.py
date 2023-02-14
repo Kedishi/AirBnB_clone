@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """Module for FileStorage autoinit."""
 
 from models.engine.file_storage import FileStorage
